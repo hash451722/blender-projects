@@ -3,9 +3,7 @@
 
 ## Models
 
-
-
-![ambulance.png](ambulance.png "ambulance")
+### Ambulance
 
 <img src="ambulance.png" width="300px">
 
