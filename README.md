@@ -5,7 +5,8 @@
 
 ### Ambulance
 
-<img src="ambulance.png" width="300px">
+[Download blender file](models/ambulance.blend)
+<img src="models/ambulance.png" width="300px">
 
 
 
