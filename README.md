@@ -7,6 +7,7 @@
 
 ![ambulance.png](ambulance.png "ambulance")
 
+<img src="ambulance.png" width="300px">
 
 
 
